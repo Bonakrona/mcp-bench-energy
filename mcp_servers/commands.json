@@ -1,0 +1,23 @@
+{
+  "Server_A_test": {
+    "cmd": "python server_A_test.py",
+    "env": [
+      "UK_POWERNETWORKS_API_KEY"
+    ],
+    "cwd": "../test_servers"
+  },
+  "Server_B_test":{
+    "cmd": "python server_B_test.py",
+    "env": [
+      "UK_POWERNETWORKS_API_KEY"
+    ],
+    "cwd": "../test_servers"
+  },
+  "Server_C_test":{
+    "cmd": "python server_C_test.py",
+    "env": [
+      "UK_POWERNETWORKS_API_KEY"
+    ],
+    "cwd": "../test_servers"
+  }
+}

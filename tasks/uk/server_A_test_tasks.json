@@ -1,0 +1,1277 @@
+{
+  "generation_info": {
+    "status": "completed"
+  },
+  "server_tasks": [
+    {
+        "server_name": "Server_A_test",
+      "tasks": [
+        {
+          "task_id": "server_A_test_000",
+          "fuzzy_description": "Jag försöker få koll på vem som faktiskt står som skapare bakom ukpn-licence-boundaries. Är det UK Power Networks?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_001",
+          "fuzzy_description": "Min chef frågade om det är UK Power Networks som skapat metadata för ukpn-licence-boundaries. Kan du bekräfta det?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_002",
+          "fuzzy_description": "Snabb fråga: vem är registrerad som skapare av metadata för ukpn-licence-boundaries?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_003",
+          "fuzzy_description": "Vi håller på att dokumentera ursprung för olika identifierare och jag är lite osäker på ukpn-licence-boundaries. Vem står som skapare där?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_004",
+          "fuzzy_description": "Det är lite oklart i vår databas vem som faktiskt skapat metadata för ukpn-licence-boundaries. Kan du ge mig det svart på vitt?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_005",
+          "fuzzy_description": "Jag ska lägga in skaparinformation i en sammanställning och vill inte råka ange fel. För ukpn-licence-boundaries, vem är den registrerade skaparen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_006",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om vem som skapat metadata för ukpn-licence-boundaries. Vad är det korrekta namnet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_007",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-licence-boundaries i UK Power Networks är en person, ett team eller bara ett projektnamn. Kan du säga vad som står som skapare?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_008",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt skapare för ukpn-licence-boundaries. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_009",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var ett annat namn som stod som skapare för ukpn-licence-boundaries. Kan du säga vad som faktiskt gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar skapare av metadata för en given identifierare. Utdata används direkt i dokumentation eller attributering. B) Scenariobaserade beroenden: - Beslutspunkt: Skaparen avgör om metadata tillhör ett visst projekt eller team. - Sekventiellt: Identifiera → hämta skapare. - Parallellt: Kan kombineras med typ, ämne eller publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Skaparen av metadata som tillhör identifieraren ukpn-licence-boundaries är UK Power Networks, Company number 3870728. D) Exakt tool: metadata_creator_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_010",
+          "fuzzy_description": "Jag försöker få tag i den fullständiga beskrivningen för uk-power-networks-boundary. Kan du ge mig hela texten?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_011",
+          "fuzzy_description": "Min chef bad om en sammanfattning av vad uk-power-networks-boundary innehåller. Jag vill ha den exakta metadata-beskrivningen.",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_012",
+          "fuzzy_description": "Snabb fråga: vad står det i beskrivningen för identifieraren uk-power-networks-boundary?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_013",
+          "fuzzy_description": "Vi ska lägga in en kort beskrivning i en rapport och jag vill inte råka formulera om något. Vad står exakt för uk-power-networks-boundary?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_014",
+          "fuzzy_description": "Det är lite oklart vad datasetet uk-power-networks-boundary faktiskt innehåller. Kan du ge mig den fullständiga metadata-beskrivningen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_015",
+          "fuzzy_description": "Jag ska presentera innehållet i uk-power-networks-boundary nästa vecka och vill ha den officiella beskrivningen. Kan du dela den?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_016",
+          "fuzzy_description": "Har en situation här: vi har fått olika versioner av vad uk-power-networks-boundary innehåller. Vad är den korrekta metadata-beskrivningen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_017",
+          "fuzzy_description": "Jag är nyfiken på hur kvaliteten och metoden beskrivs för uk-power-networks-boundary. Kan du ge mig hela metadata-texten?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_018",
+          "fuzzy_description": "Vi ska skicka vidare en sammanställning och jag vill vara säker på att vi använder rätt beskrivning för uk-power-networks-boundary. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_019",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde datasetet var mer komplett. Kan du ge mig den exakta metadata-beskrivningen så jag vet vad som gäller för uk-power-networks-boundary?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar den fullständiga metadata-beskrivningen för en identifierare. Utdata används direkt i dokumentation, rapporter eller presentationer. B) Scenariobaserade beroenden: - Beslutspunkt: Beskrivningen avgör om datasetet är lämpligt för användning i vissa sammanhang. - Sekventiellt: Identifiera → hämta beskrivning. - Parallellt: Kan kombineras med typ, skapare, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar: Datasetet är en shapefile som visar gränsen för UK Power Networks ansvarsområde och har hämtats från företagets geospatiala system NetMap. Informationen tillhandahålls i befintligt skick, men Open Data Team har granskat den för att säkerställa noggrannhet och konsistens. Metadata för datasetet kan laddas ner som JSON, och definitioner av relevanta termer finns i Open Data-portalens ordlista. D) Exakt tool: Metadata_description_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_020",
+          "fuzzy_description": "Jag försöker få koll på vad ämnet är för ukpn-hv-poles. Är det något med generation eller DSO?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_021",
+          "fuzzy_description": "Min chef frågade om ukpn-hv-poles handlar om Distribution System Operator. Kan du bekräfta det?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_022",
+          "fuzzy_description": "Snabb fråga: vad står som ämne för identifieraren ukpn-hv-poles?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_023",
+          "fuzzy_description": "Vi håller på att sortera metadata efter ämnesområde och jag är lite osäker på ukpn-hv-poles. Kan du säga vad som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_024",
+          "fuzzy_description": "Det är lite oklart i vår databas vad ukpn-hv-poles faktiskt täcker. Är det generation och DSO som är ämnet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_025",
+          "fuzzy_description": "Jag ska lägga in ämnesklassificering i en sammanställning och vill inte råka ange fel. För ukpn-hv-poles, vad är det registrerade ämnet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_026",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om ämnet för ukpn-hv-poles. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_027",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-hv-poles är kopplat till produktion eller drift. Kan du ge mig den exakta ämnesklassificeringen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_028",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt ämne för ukpn-hv-poles. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_029",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var ett helt annat ämne. Kan du säga vad som faktiskt gäller för ukpn-hv-poles?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar ämnesklassificering för en identifierare. Utdata används direkt i kategorisering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Ämnet avgör om identifieraren inkluderas i en viss tematisk analys. - Sekventiellt: Identifiera → hämta ämne. - Parallellt: Kan kombineras med typ, skapare, beskrivning. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Ämnet till identifieraren ukpn-hv-poles är: Geospatial;Overhead Lines. D) Exakt tool: Metadata_subject_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_030",
+          "fuzzy_description": "Jag försöker få koll på vad ukpn-net-zero-use-cases faktiskt är för typ av data. Är det ett dataset?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_031",
+          "fuzzy_description": "Min chef frågade om ukpn-net-zero-use-cases är klassat som ett dataset. Kan du bekräfta det?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_032",
+          "fuzzy_description": "Snabb fråga: vad står som datatyp för identifieraren ukpn-net-zero-use-cases?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_033",
+          "fuzzy_description": "Vi håller på att sortera metadata efter typ och jag är lite osäker på ukpn-net-zero-use-cases. Är det ett dataset eller något annat?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_034",
+          "fuzzy_description": "Det är lite oklart i vår databas vad ukpn-net-zero-use-cases faktiskt är. Kan du säga exakt vilken typ det är?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_035",
+          "fuzzy_description": "Jag ska lägga in datatyp i en sammanställning och vill inte råka ange fel. För ukpn-net-zero-use-cases, vad är det registrerade formatet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_036",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om vad ukpn-net-zero-use-cases är. Vissa säger rapport, andra dataset. Vad är det korrekta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_037",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-net-zero-use-cases är en samling data eller bara en beskrivning. Kan du ge mig den exakta klassificeringen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_038",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt typ för ukpn-net-zero-use-cases. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_039",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var en annan typ av dokument. Kan du säga vad som faktiskt gäller för ukpn-net-zero-use-cases?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar datatypen för en identifierare. Utdata används direkt i klassificering, filtrering eller rapportering. B) Scenariobaserade beroenden: - Beslutspunkt: Typen avgör hur identifieraren behandlas i systemet (t.ex. dataset vs. rapport). - Sekventiellt: Identifiera → hämta typ. - Parallellt: Kan kombineras med ämne, skapare, format. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Typen av data som lagras i metadata som tillhör identifieraren ukpn-net-zero-use-cases är: Dataset. D) Exakt tool: Metadata_type_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_040",
+          "fuzzy_description": "Jag försöker få fram när ukpn-secondary-site-transformers först blev tillgänglig. Är det den 24 november 2023?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_041",
+          "fuzzy_description": "Min chef frågade om ukpn-secondary-site-transformers är ett nytt dataset. Vet du vilket datum det först utfärdades?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_042",
+          "fuzzy_description": "Snabb fråga: när utfärdades metadata för ukpn-secondary-site-transformers?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_043",
+          "fuzzy_description": "Vi håller på att spåra versionshistorik och jag är lite osäker på när ukpn-secondary-site-transformers först publicerades. Kan du ge mig det exakta datumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_044",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation när ukpn-secondary-site-transformers faktiskt blev tillgänglig. Kan du bekräfta utfärdandedatumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_045",
+          "fuzzy_description": "Jag ska lägga in publiceringsdatum i en sammanställning och vill inte råka ange fel. För ukpn-secondary-site-transformers, vad är det registrerade datumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_046",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om när ukpn-secondary-site-transformers först utfärdades. Vad är det korrekta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_047",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-secondary-site-transformers är ett äldre dataset eller något nytt. Kan du ge mig det exakta utfärdandedatumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_048",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt datum för ukpn-secondary-site-transformers. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_049",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var från tidigare i år. Kan du säga vad som faktiskt gäller för ukpn-secondary-site-transformers?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det datum då metadata för en identifierare först utfärdades. Utdata används direkt i dokumentation, versionshistorik eller publiceringslogg. B) Scenariobaserade beroenden: - Beslutspunkt: Datumet avgör om datasetet är aktuellt eller historiskt. - Sekventiellt: Identifiera → hämta utfärdandedatum. - Parallellt: Kan kombineras med modifieringsdatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-secondary-site-transformers utfärdades var 2025-06-05T12:32:43+00:00. D) Exakt tool: Metadata_date_issued_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_050",
+          "fuzzy_description": "Jag försöker ta reda på när ukpn-super-grid-transformer senast uppdaterades. Var det i januari 2022?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_051",
+          "fuzzy_description": "Min chef frågade om ukpn-super-grid-transformer har uppdaterats nyligen. Vet du vilket datum som är det senaste?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_052",
+          "fuzzy_description": "Snabb fråga: när modifierades metadata för ukpn-super-grid-transformer senast?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_053",
+          "fuzzy_description": "Vi håller på att kontrollera om ukpn-super-grid-transformer är aktuell. Kan du ge mig det senaste datumet då metadata uppdaterades?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_054",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation när ukpn-super-grid-transformer senast ändrades. Kan du bekräfta modifieringsdatumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_055",
+          "fuzzy_description": "Jag ska lägga in senaste uppdateringsdatum i en sammanställning och vill inte råka ange fel. För ukpn-super-grid-transformer, vad är det registrerade datumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_056",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om när ukpn-super-grid-transformer senast modifierades. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_057",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-super-grid-transformer är uppdaterad nyligen eller om det är gammal information. Kan du ge mig det exakta modifieringsdatumet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren uukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_058",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt datum för senaste ändring av ukpn-super-grid-transformer. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_059",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var uppdaterat tidigare. Kan du säga vad som faktiskt gäller för ukpn-super-grid-transformer?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar det senaste datumet då metadata för en identifierare modifierades. Utdata används direkt i versionshantering, uppdateringslogg eller validering. B) Scenariobaserade beroenden: - Beslutspunkt: Modifieringsdatum avgör om metadata är aktuell eller behöver granskas. - Sekventiellt: Identifiera → hämta modifieringsdatum. - Parallellt: Kan kombineras med utfärdandedatum, typ, ämne. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Datumet som metadata som tillhör identifieraren ukpn-super-grid-transformer uppdaterades var 2025-12-08T23:59:08.078000+00:00. D) Exakt tool: metadata_date_modified_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_060",
+          "fuzzy_description": "Jag försöker ta reda på om ukpn-external-facing-tracker är öppet tillgängligt. Är det klassat som 'Open'?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_061",
+          "fuzzy_description": "Min chef frågade om vi behöver särskild åtkomst för ukpn-external-facing-tracker. Vet du om det är öppet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_062",
+          "fuzzy_description": "Snabb fråga: vad står som accessrättighet för identifieraren ukpn-external-facing-tracker?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_063",
+          "fuzzy_description": "Vi håller på att sammanställa en lista över öppna dataset och jag är lite osäker på ukpn-external-facing-tracker. Kan du bekräfta om det är öppet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_064",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation om ukpn-external-facing-tracker kräver inloggning eller är fritt. Kan du säga vad som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_065",
+          "fuzzy_description": "Jag ska lägga in accessnivå i en sammanställning och vill inte råka ange fel. För ukpn-external-facing-tracker, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_066",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om åtkomst till ukpn-external-facing-tracker. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_067",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-external-facing-tracker är öppet för alla eller begränsat. Kan du ge mig den exakta accessklassificeringen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_068",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt accessrättighet för ukpn-external-facing-tracker. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_069",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det krävde särskild behörighet. Kan du säga vad som faktiskt gäller för ukpn-external-facing-tracker?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar accessrättigheter för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Accessklassificeringen avgör om datasetet kan användas fritt eller kräver tillstånd. - Sekventiellt: Identifiera → hämta accessrättighet. - Parallellt: Kan kombineras med typ, publiceringsstatus, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Behörighetsrättigheter till identifieraren ukpn-external-facing-tracker är Open. D) Exakt tool: Metadata_access_rights_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_070",
+          "fuzzy_description": "Jag försöker minnas vilken identifierare som hör till titeln Smart Meter Consumption - Substation. Är det ukpn-smart-meter-consumption-substation?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_071",
+          "fuzzy_description": "Min chef frågade om Smart Meter Consumption - Substation har en specifik identifierare. Vet du om det är ukpn-smart-meter-consumption-substation?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_072",
+          "fuzzy_description": "Snabb fråga: vilken identifierare är kopplad till titeln Smart Meter Consumption - Substation?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_073",
+          "fuzzy_description": "Vi håller på att uppdatera vår lista över titlar och identifierare. För Smart Meter Consumption - Substation, kan du ge mig den exakta identifieraren?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_074",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation vilken identifierare som gäller för Smart Meter Consumption - Substation. Kan du bekräfta det korrekta värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_075",
+          "fuzzy_description": "Jag ska lägga in identifieraren i en rapport och vill inte råka ange fel. För titeln Smart Meter Consumption - Substation, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_076",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om identifieraren för Smart Meter Consumption - Substation. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_077",
+          "fuzzy_description": "Jag är nyfiken på om identifieraren för Smart Meter Consumption - Substation innehåller ordet progression. Kan du ge mig den exakta strängen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_078",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt identifierare för Smart Meter Consumption - Substation. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_079",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var en annan identifierare. Kan du säga vad som faktiskt gäller för Smart Meter Consumption - Substation?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar identifieraren för en given titel. Utdata används direkt i dokumentation, sökning eller API-anrop. B) Scenariobaserade beroenden: - Beslutspunkt: Identifieraren avgör om rätt dataset hämtas eller länkas. - Sekventiellt: Titel → hämta identifierare. - Parallellt: Kan kombineras med format, relation, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren till titeln Smart Meter Consumption - Substation är ukpn-smart-meter-consumption-substation. D) Exakt tool: Metadata_identifier_for_title",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_080",
+          "fuzzy_description": "Jag försöker ta reda på vilket format som gäller för ukpn-primary-transformers. Är det JSON, CSV och Excel?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_081",
+          "fuzzy_description": "Min chef frågade om ukpn-primary-transformers stöder flera format. Vet du vilka som är registrerade?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_082",
+          "fuzzy_description": "Snabb fråga: vad står som format för identifieraren ukpn-primary-transformers?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_083",
+          "fuzzy_description": "Vi håller på att planera en export och jag är lite osäker på vilka format som gäller för ukpn-primary-transformers. Kan du ge mig hela listan?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_084",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation om ukpn-primary-transformers bara är JSON eller fler format. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_085",
+          "fuzzy_description": "Jag ska lägga in formatinformation i en sammanställning och vill inte råka ange fel. För ukpn-primary-transformers, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_086",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om formatet för ukpn-primary-transformers. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_087",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-primary-transformers stöder Excel-format. Kan du ge mig den exakta formatsträngen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_088",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt format för ukpn-primary-transformers. Kan du bekräfta?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_089",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det bara var CSV. Kan du säga vad som faktiskt gäller för ukpn-primary-transformers?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar format för en identifierare. Utdata används direkt i exportfunktioner, API-anrop eller dokumentation. B) Scenariobaserade beroenden: - Beslutspunkt: Format avgör hur data kan konsumeras. - Sekventiellt: Identifiera → hämta format. - Parallellt: Kan kombineras med källa, relation. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformers har formatet:   'application/json;text/csv;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'. D) Exakt tool: Metadata_format_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_090",
+          "fuzzy_description": "Jag försöker hitta relationen för ukpn-primary-transformer-power-flow-historic-half-hourly-epn. Är det den där länken till opendatasoft?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_091",
+          "fuzzy_description": "Min chef frågade om ukpn-primary-transformer-power-flow-historic-half-hourly-epn har en direkt relation till en extern datakälla. Vet du vilken?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_092",
+          "fuzzy_description": "Snabb fråga: vilken relation är registrerad för identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_093",
+          "fuzzy_description": "Vi håller på att kartlägga externa kopplingar och jag är lite osäker på ukpn-primary-transformer-power-flow-historic-half-hourly-epn. Kan du ge mig den exakta relationen som är registrerad?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_094",
+          "fuzzy_description": "Det är lite oklart i vår dokumentation om ukpn-primary-transformer-power-flow-historic-half-hourly-epn har en länkad relation. Kan du bekräfta den fullständiga URL:en?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_095",
+          "fuzzy_description": "Jag ska lägga in relationsinformation i en sammanställning och vill inte råka ange fel. För ukpn-primary-transformer-power-flow-historic-half-hourly-epn, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_096",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om relationen för ukpn-primary-transformer-power-flow-historic-half-hourly-epn. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_097",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-primary-transformer-power-flow-historic-half-hourly-epn är kopplat till någon extern resurs eller datakälla. Kan du ge mig den exakta relationen som är registrerad, helst som en fullständig länk?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_098",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt relation för ukpn-primary-transformer-power-flow-historic-half-hourly-epn. Kan du bekräfta den länk som är registrerad i metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_099",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde ukpn-primary-transformer-power-flow-historic-half-hourly-epn inte hade någon relation alls. Kan du säga vad som faktiskt gäller och ge mig den exakta URL:en?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar relationen (ofta en URL eller länkad resurs) för en identifierare. Utdata används direkt i dokumentation, länkning eller API-integration. B) Scenariobaserade beroenden:- Beslutspunkt: Relation avgör om ytterligare data kan hämtas från en extern källa. - Sekventiellt: Identifiera → hämta relation. - Parallellt: Kan kombineras med källa, format, typ. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Identifieraren ukpn-primary-transformer-power-flow-historic-half-hourly-epn har relationen: 'https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-grid-transformer-operational-data-monthly/information/; https://ukpowernetworks.opendatasoft.com/explore/dataset/ukpn-primary-transformer-power-flow-historic-monthly/information/'. D) Exakt tool: Metadata_relation_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_100",
+          "fuzzy_description": "Jag försöker hitta källan till ukpn-power-quality. Är det den där opendatasoft-länken?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_101",
+          "fuzzy_description": "Min chef frågade om ukpn-power-quality kommer från en öppen portal. Vet du vilken källa som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_102",
+          "fuzzy_description": "Snabb fråga: vad står som källa för identifieraren ukpn-power-quality?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_103",
+          "fuzzy_description": "Vi håller på att dokumentera ursprung för olika identifierare och jag är lite osäker på ukpn-power-quality. Kan du ge mig den exakta källan?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_104",
+          "fuzzy_description": "Det är lite oklart i vår databas var ukpn-power-quality faktiskt kommer ifrån. Kan du bekräfta den registrerade källan?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_105",
+          "fuzzy_description": "Jag ska lägga in källa i en sammanställning och vill inte råka ange fel. För ukpn-power-quality, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_106",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om källan till ukpn-power-quality. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_107",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-power-quality är kopplat till någon officiell portal eller bara en intern resurs. Kan du ge mig den exakta källan som är registrerad, helst som en fullständig länk?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_108",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt källa för ukpn-power-quality. Kan du bekräfta den länk som är registrerad i metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_109",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde ukpn-power-quality kom från en annan källa. Kan du säga vad som faktiskt gäller och ge mig den exakta URL:en?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar källan (source) för en identifierare. Utdata används direkt i dokumentation, referenshantering eller API-länkning. B) Scenariobaserade beroenden: - Beslutspunkt: Källan avgör om datan är officiell, öppen eller intern. - Sekventiellt: Identifiera → hämta källa. - Parallellt: Kan kombineras med relation, format, publicerare. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Source för identifieraren ukpn-power-quality är: 'https://ukpowernetworks.opendatasoft.com/'. D) Exakt tool: Metadata_source_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_110",
+          "fuzzy_description": "Jag försöker få fram vem som står som publicerare för ukpn-constraint-breaches-history. Är det UK Power Networks?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_111",
+          "fuzzy_description": "Min chef frågade om ukpn-constraint-breaches-history är publicerat av UK Power Networks. Vet du om det stämmer?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_112",
+          "fuzzy_description": "Snabb fråga: vad står som publicerare för identifieraren ukpn-constraint-breaches-history?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_113",
+          "fuzzy_description": "Vi håller på att dokumentera ansvariga organisationer och jag är lite osäker på ukpn-constraint-breaches-history. Kan du ge mig den exakta publiceraren?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_114",
+          "fuzzy_description": "Det är lite oklart i vår databas vem som faktiskt publicerat ukpn-constraint-breaches-history. Kan du bekräfta det registrerade företagsnamnet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_115",
+          "fuzzy_description": "Jag ska lägga in publicerarinformation i en sammanställning och vill inte råka ange fel. För ukpn-constraint-breaches-history, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_116",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om publiceraren för ukpn-constraint-breaches-history. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_117",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-constraint-breaches-history är publicerat av ett specifikt bolag eller bara en avdelning. Kan du ge mig den exakta publiceraren, inklusive organisationsnummer om det finns?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_118",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt publicerare för ukpn-constraint-breaches-history. Kan du bekräfta det fullständiga företagsnamnet som står i metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_119",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde det var en annan enhet som stod bakom ukpn-constraint-breaches-history. Kan du säga vad som faktiskt gäller och ge mig den exakta publiceraren?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceraren för en identifierare. Utdata används direkt i dokumentation, attributering eller juridisk referens. B) Scenariobaserade beroenden: - Beslutspunkt: Publiceraren avgör ansvarsförhållande och trovärdighet. - Sekventiellt: Identifiera → hämta publicerare. - Parallellt: Kan kombineras med källa, accessrättighet, synlighet. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Publiceraren för identifieraren ukpn-constraint-breaches-history är: UK Power Networks, Company number 3870728. D) Exakt tool: Metadata_publisher_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_120",
+          "fuzzy_description": "Jag försöker ta reda på vilken synlighet ukpn-external-facing-tracker har. Vad är det som den är klassad som egentligen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_121",
+          "fuzzy_description": "Min chef frågade om ukpn-external-facing-tracker är begränsad i synlighet. Vet du om det är “domain”? eller något helt anant?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_122",
+          "fuzzy_description": "Snabb fråga: vad står som synlighetsklassificering för identifieraren ukpn-external-facing-tracker?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_123",
+          "fuzzy_description": "Vi håller på att dokumentera åtkomstnivåer och jag är lite osäker på ukpn-external-facing-tracker. Kan du ge mig den exakta synlighetsklassificeringen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_124",
+          "fuzzy_description": "Det är lite oklart i vår databas om ukpn-external-facing-tracker är öppet eller begränsat. Kan du bekräfta vad som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_125",
+          "fuzzy_description": "Jag ska lägga in synlighetsinformation i en sammanställning och vill inte råka ange fel. För ukpn-external-facing-tracker, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_126",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om synligheten för ukpn-external-facing-tracker. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_127",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-external-facing-tracker är synlig för alla eller bara inom ett visst domänområde. Kan du ge mig den exakta klassificeringen som står i metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_128",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt synlighetsnivå för ukpn-external-facing-tracker. Kan du bekräfta om det är “domain” som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_129",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde ukpn-external-facing-tracker var helt öppen. Kan du säga vad som faktiskt gäller och ge mig den exakta synlighetsklassificeringen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar synlighetsklassificering för en identifierare. Utdata används direkt i åtkomsthantering, publiceringsbeslut eller användargränssnitt. B) Scenariobaserade beroenden: - Beslutspunkt: Synligheten avgör om datasetet är tillgängligt för alla eller begränsat till en viss domän. - Sekventiellt: Identifiera → hämta synlighet. - Parallellt: Kan kombineras med accessrättighet, publiceringsstatus, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Synlighet för ukpn-external-facing-tracker är: domain. D) Exakt tool: Metadata_visibility_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_130",
+          "fuzzy_description": "Jag försöker ta reda på om ukpn-132kv-circuit-operational-data-half-hourly är publicerad. Är den markerad som “published = true”?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_131",
+          "fuzzy_description": "Min chef frågade om ukpn-132kv-circuit-operational-data-half-hourly är tillgänglig. Vet du om den är officiellt publicerad?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_132",
+          "fuzzy_description": "Snabb fråga: vad står som publiceringsstatus för identifieraren ukpn-132kv-circuit-operational-data-half-hourly?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_133",
+          "fuzzy_description": "Vi håller på att dokumentera vilka dataset som är aktiva och jag är lite osäker på ukpn-132kv-circuit-operational-data-half-hourly. Kan du bekräfta om den är publicerad?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_134",
+          "fuzzy_description": "Det är lite oklart i vår databas om ukpn-132kv-circuit-operational-data-half-hourly är tillgänglig för användning. Kan du säga vad som gäller?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_135",
+          "fuzzy_description": "Jag ska lägga in publiceringsstatus i en sammanställning och vill inte råka ange fel. För ukpn-132kv-circuit-operational-data-half-hourly, vad är det registrerade värdet?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_136",
+          "fuzzy_description": "Har en situation här: vi har fått olika uppgifter om statusen för ukpn-132kv-circuit-operational-data-half-hourly. Vad är det korrekta enligt metadata?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_137",
+          "fuzzy_description": "Jag är nyfiken på om ukpn-132kv-circuit-operational-data-half-hourly är officiellt publicerad eller bara ligger som ett internt utkast. Kan du ge mig den exakta statusen som står i metadata, helst som en boolean eller tydlig flagga?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_138",
+          "fuzzy_description": "Vi ska skicka vidare en rapport och jag vill vara säker på att vi anger rätt publiceringsstatus för ukpn-132kv-circuit-operational-data-half-hourly. Kan du bekräfta om den är markerad som publicerad?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        },
+        {
+          "task_id": "server_A_test_139",
+          "fuzzy_description": "Det här har stört mig lite – jag trodde ukpn-132kv-circuit-operational-data-half-hourly inte var tillgänglig än. Kan du säga vad som faktiskt gäller och ge mig den exakta publiceringsstatusen?",
+          "dependency_analysis": "A) Inneboende beroenden: - Verktyget returnerar publiceringsstatus för en identifierare. Utdata används direkt i åtkomstbeslut, dokumentation och filtrering av tillgängliga resurser. B) Scenariobaserade beroenden: - Beslutspunkt: Status avgör om datasetet kan användas, refereras eller distribueras. - Sekventiellt: Identifiera → hämta publiceringsstatus. - Parallellt: Kan kombineras med synlighet, accessrättighet, källa. - Iterativt: Ingen iteration krävs. - Serverberoenden: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): ukpn-132kv-circuit-operational-data-half-hourly är publicerad (publishing_published = True). D) Exakt tool: Metadata_published_for_identifier",
+          "distraction_servers": [
+            "Server_B_test",
+            "Server_C_test"
+          ]
+        }
+      ],
+      "servers": [
+        "Server_A_test"
+      ],
+      "combination_name": "Single Server: Server_A_test",
+      "combination_type": "single_server"
+    }
+]
+}

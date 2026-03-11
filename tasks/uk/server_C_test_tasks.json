@@ -1,0 +1,1007 @@
+{
+  "generation_info": {
+    "status": "completed"
+  },
+  "server_tasks": [
+    {
+      "server_name": "Server_C_test",
+      "tasks": [
+        {
+          "task_id": "server_C_test_000",
+          "fuzzy_description": "Jag försöker lista ut när hushållens elbehov senast stack iväg över tio procent. Har en dragning snart och vill inte chansa. Jag behöver faktiska siffror eller källor, annars vågar jag inte lägga det i mina bilder, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_001",
+          "fuzzy_description": "Har funderat på topparna i efterfrågan i hemmen den senaste tiden — särskilt när det passerar runt 10 % av mixen. Om du kan peka ut de senaste tidsstämplarna, helst i UTC, vore det guld. Jag behöver riktiga data eller trovärdiga källor, inget fluff, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_002",
+          "fuzzy_description": "Jag har en situation här: min chef frågade om de senaste tillfällena då den inhemska efterfrågan kröp förbi 10 %. Jag är inte säker på om det varierar mycket över dygnet, men kan du hitta de senaste tidsstämplarna i UTC så jag kan dubbelkolla? Jag måste ha hårda siffror eller verifierbara källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_003",
+          "fuzzy_description": "Jag försöker minnas om kvällstopparna var mest tydliga, kanske kring halvtimmar sent på kvällen, men jag kan ha fel. Vilka var de senaste tidpunkterna där hushållsbehovet gick över 10 %? Jag behöver det bekräftat med faktiska siffror eller pålitliga källor, annars kan jag inte ta det vidare, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_004",
+          "fuzzy_description": "Lite osäker här: är det rimligt att de senaste gånger hushållens andel gick över tio procent inträffade mot slutet av året för några år sedan? Om du kan lista de senaste tidsstämplarna i UTC blir jag tryggare. Jag behöver verkliga data eller trovärdiga källor, inget antagande, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_005",
+          "fuzzy_description": "Min kollega hävdar att hushållens elbehov sällan passerar 10 % i de senaste skedena av ett år, men jag minns något annat. Skulle du kunna ta fram de senaste tidsstämplarna då det faktiskt gick över den nivån, i UTC, så jag kan visa vad som stämmer? Jag behöver det här styrkt med riktiga siffror eller tillförlitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_006",
+          "fuzzy_description": "Jag ska knyta ihop en kort notis för vår interna uppföljning, och jag vill bara få svart på vitt när hushållens efterfrågan senast låg över tio procent. Gissar att det rör sig om några täta datapunkter under samma kväll, men kanske inte. Kan du ge mig de senaste tiderna (UTC) och sådant jag kan peka på? Jag behöver faktiska data eller källor för att inte skjuta från höften, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_007",
+          "fuzzy_description": "Jag är nyfiken på hur ofta tröskeln 10 % faktiskt passeras, och framför allt när det hände senast. Jag blev nämligen ifrågasatt på ett möte om våra antaganden kring kvällstoppar. Kan du dela de senaste tidsstämplarna i UTC där hushållsbehovet gick över den nivån, så jag har ryggen fri? Jag behöver siffror eller solida källor, inget löst.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_008",
+          "fuzzy_description": "Kanske låter jag petig, men jag vill få de exakta senaste ögonblicken då hushållens andel gick över just tio procent, inte nästan, utan över. Om du kan rada upp de senaste tidsstämplarna i UTC så kan jag jämföra mot mina minnesanteckningar. Jag behöver verkligen riktiga siffror eller tillförlitliga källor att visa upp, annars faller min poäng.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_009",
+          "fuzzy_description": "Jag har några grafer som visar toppar strax före midnatt för ett par år sedan, men är inte säker på om det stämmer. Vilka är de senaste tillfällena när hushållens elbehov faktiskt var över 10 %, och kan du ge tiderna i UTC? Jag behöver att det här backas upp av faktiska data eller trovärdiga källor, så jag inte står där med diagram som ingen litar på.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → datauttag. Verktyget returnerar de senaste tidsstämplarna och procentsatserna; dessa är direkt konsumerbara utan mellanliggande konvertering. - Standardflöde: hämta → läsa → presentera (ingen ytterligare analys krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Om tröskelvärdet (10 %) är tydligt definierat, används enbart detta verktyg; ingen sekundär validering krävs. - Sekventiellt krav: Först hämta listan, sedan välja de senast förekommande posterna (levereras redan sorterat i svaret). - Parallella krav: Inga. - Iterativ slinga: Ingen (engångsfråga). - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där domestic electricity demand överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 72.46%, 2019-12-31T23:00:00+00:00 — 74.76%, 2019-12-31T22:30:00+00:00 — 72.64%, 2019-12-31T22:00:00+00:00 — 68.35%, 2019-12-31T21:30:00+00:00 — 67.36%. D) Använd tool: Electricity_demand_timestamps_for_domestic_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_010",
+          "fuzzy_description": "Natten till årsskiftet för ungefär sex år sedan minns jag att det gjordes en mätning på “storage” kopplat till efterfrågan. Jag hittar inte exakta siffrorna. Kan du fiska fram procenttalen per halvtimme i UTC? Jag behöver hårda data eller pålitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_011",
+          "fuzzy_description": "Jag försöker pussla ihop en liten återblick från 2019-12-31. Minns att lagringen kring efterfrågan pendlade mellan ungefär 50 och 75 procent, men jag vågar inte lita på minnet. Kan du ge mig halvtimmesvärdena i UTC? Jag behöver verkliga siffror eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_012",
+          "fuzzy_description": "Har en situation här: vi gör en jämförelse med den där natten sista december 2019. Jag skulle vilja se hur “storage” för efterfrågan låg, per halvtimme. Skulle du kunna hämta procentsiffrorna i UTC så jag kan dubbelkolla vår graf? Jag behöver det styrkt av riktiga data eller solida källor.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_013",
+          "fuzzy_description": "Jag tänker att det var ett tag då siffrorna studsade mellan 50 % och 75 %, men jag kan minnas fel. Kan du kolla upp halvtimmesvärdena för “storage” för efterfrågan, just för sex år sedan natten till årsskiftet till 2020, i UTC? Jag behöver verkliga data eller tillförlitliga källor, annars blir det bara spekulation.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_014",
+          "fuzzy_description": "Min kollega tror att lagringen låg platt ett tag, men jag minns variation. För att inte fastna i gissningar skulle jag vilja ha de faktiska halvtimmesvärdena i UTC för 2019-12-31, kopplat till efterfrågan. Jag behöver konkreta siffror eller trovärdiga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_015",
+          "fuzzy_description": "Ska göra en snabb sanity check mot våra historiska anteckningar: ett antal år tillbaka (runt sex) sista december, hur såg “storage” ut för efterfrågan under ett tag? Om du kan lista procentsiffror per halvtimme i UTC blir det tydligt. Jag behöver det här backat av faktiska data eller tillförlitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_016",
+          "fuzzy_description": "Jag är nyfiken på om vår interna rapport var rätt när den påstod att två tidsfönster låg på femtio procent och tre på sjuttiofem procent 2019-12-31. Kan du dela exakta halvtimmesvärden i UTC för “storage” för efterfrågan? Jag behöver siffror eller källor som håller.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_017",
+          "fuzzy_description": "För min egen trygghet vill jag se den exakta sekvensen under kvällstimmarna sista december för sex år sedan, kopplat till “storage” för efterfrågan: var det 50 %, 75 %, 75 %, 75 %, 50 % eller något helt annat? Ge mig tider i UTC. Jag behöver pålitliga siffror eller källor, inte minnesbilder.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_018",
+          "fuzzy_description": "Kanske överanalyserar jag, men ordningsföljden på halvtimmesvärdena spelar roll i min jämförelse. Sista december 2019 — kan du rad för rad ge “storage”-procent per halvtimme i UTC för efterfrågan under ett tag? Jag måste ha det belagt med riktiga data eller källor.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_019",
+          "fuzzy_description": "Jag vill undvika att rita om grafer i onödan. Hjälp mig att bekräfta de halvtimmesvisa “storage”-värdena (i procent) under kvällstimmarna natten till årskifter 2020, kopplat till efterfrågan, i UTC. Jag behöver faktiska data eller trovärdiga källor, annars skjuter jag bara från höften.",
+          "dependency_analysis": "A) Inneboende beroenden:- Central kedja: Tool → halvtimmesvisa procentsiffror i UTC. Utdata används direkt i rapport/tabell. - Standardflöde: hämta → validera tidsstämplar → sammanställa. B) Scenariobaserade beroenden: - Beslutspunkt: Om datumet är fast (2020), räcker detta verktyg. - Sekventiellt krav: Hämta data, sedan ordna dem i tidsföljd (utdata är redan tidsordnad). - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 50.0%, 2019-12-31T23:00:00+00:00 — 75.0%, 2019-12-31T22:30:00+00:00 — 75.0%, 2019-12-31T22:00:00+00:00 — 75.0%, 2019-12-31T21:30:00+00:00 — 50.0%.  D) Exakt tool: Electricity_demand_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_020",
+          "fuzzy_description": "Jag försöker lista ut när vindkraften senast gick över tio procent av elproduktionen. Behöver det till en snabb uppföljning. Jag måste ha faktiska siffror eller pålitliga källor, annars blir det bara tyckande, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_021",
+          "fuzzy_description": "Har funderat på hur vindens andel betedde sig vid slutet av året för några år sedan. Om andelen gick över 10 %, kan du säga exakt när det hände senast, i UTC? Jag behöver verkliga data eller trovärdiga källor, inte uppskattningar.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_022",
+          "fuzzy_description": "Min chef frågade om vindens senaste toppar över tio procent, och jag vill inte stå och gissa. Om du kan ge mig de senast inträffade tidsstämplarna (UTC) där vind stod för mer än 10 % av produktionen, så kan jag visa tydligt. Jag behöver siffror eller pålitliga källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_023",
+          "fuzzy_description": "Det kan vara så att flera halvtimmar i rad hamnade klart över tröskeln, men jag är inte säker. Vilka var de senaste tidpunkterna då vindkraftens andel faktiskt låg över 10 %? Gärna i UTC. Jag behöver riktig data eller tillförlitliga källor för att backa upp påståenden, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_024",
+          "fuzzy_description": "Jag vill dubbelkolla om det var en kvällssekvens där andelen ökade successivt. Om du hittar de senaste tidsstämplarna då vindkraften passerade 10 % av produktionen, kan du dela dem i UTC? Jag behöver det här med faktiska siffror eller trovärdiga källor, inte andrahandsuppgifter.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_025",
+          "fuzzy_description": "För min presentation nästa vecka måste jag visa när vindens andel senast låg över tio procent, och helst visa flera datapunkter om de ligger nära i tiden. Kan du peka ut de senaste tidsstämplarna i UTC där den nivån passerades? Jag behöver det styrkt av riktiga data eller solida källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_026",
+          "fuzzy_description": "Jag är nyfiken på hur snabbt andelen kan svänga på kvällstid. Om du hittar de senaste gångerna vind stod för mer än 10 %, kan du lista tiderna i UTC så jag kan jämföra dem inbördes? Jag behöver siffror eller källor som håller vid granskning.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_027",
+          "fuzzy_description": "Min kollega hävdar att de senaste över-tio-procent-tillfällena låg utspridda, men jag minns en kompakt klunga. Hjälp mig att reda ut de senaste tidpunkterna i UTC när vindkraften passerade 10 % av elproduktionen. Jag behöver riktiga siffror eller tillförlitliga källor för att landa det här.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_028",
+          "fuzzy_description": "Övertänker jag detta? Kanske. Men jag vill ha exakt ordning på de senaste tillfällena över tio procent för vind, helst alla inom samma kväll om det är så. Kan du dela tidsstämplar i UTC? Jag måste ha verklig data eller goda källor, annars blir det rundgång.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_029",
+          "fuzzy_description": "Skulle vilja ha en enkel lista med de senaste gånger då vindkraften låg klart över 10 %. Gärna kvällstider om det var då. Tider i UTC gör jämförelsen lättare. Jag behöver att det du hittar är stött med faktiska siffror eller tillförlitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lista över senaste tidsstämplar med procentsats för vind > 10 % (UTC). - Standardflöde: hämta → granska → presentera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen ytterligare filtrering nödvändig; verktyget levererar redan “över 10 %”. - Sekventiellt krav: Enbart detta verktyg behövs för svaret. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): De senaste timestamps där wind electricity generation överstiger 10% (UTC): 2019-12-31T23:30:00+00:00 — 64.18%, 2019-12-31T23:00:00+00:00 — 54.92%, 2019-12-31T22:30:00+00:00 — 43.84%, 2019-12-31T22:00:00+00:00 — 31.33%, 2019-12-31T21:30:00+00:00 — 34.96%. D) Exakt tool: electricity_generation_timestamps_for_wind_above",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_030",
+          "fuzzy_description": "Minns du natten innan första januari 2020? Jag försöker få grepp om “storage” på produktionssidan. Kan du dela procentsiffror per halvtimme i UTC? Jag behöver riktiga data eller pålitliga källor, annars vågar jag inte använda det.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_031",
+          "fuzzy_description": "Jag har funderat på om lagringen för produktionen låg helt jämnt. Kanske var det samma procentsats hela vägen, men jag är osäker. Om du kan ta fram halvtimmesvärdena i UTC för natten innan första januari 2020, så kan jag stämma av. Jag behöver verkliga siffror eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_032",
+          "fuzzy_description": "Har en situation här: för mitt projekt vill jag se hur “storage” för generering betedde sig sista december för sex år sedan. Kan du ge mig procentsiffrorna per halvtimme i UTC så jag kan jämföra mot våra anteckningar? Jag behöver att det stöds av riktiga data eller solida källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_033",
+          "fuzzy_description": "Jag tycker mig minnas att det var en helt platt linje på produktionslagringen, men minnet kan spela mig ett spratt. Skulle du kunna lista halvtimmesvisa procentsiffror i UTC för 2019-12-31, för generering? Jag måste ha faktiska data eller tillförlitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_034",
+          "fuzzy_description": "Min chef vill ha ett exempel på en dag där “storage” för generering inte rörde på sig. Midnattsskiftet intill 2020 kanske passar. Kan du bekräfta halvtimmesvärden (i procent) i UTC? Jag behöver hårda siffror eller trovärdiga källor för att skicka vidare.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_035",
+          "fuzzy_description": "Jag vill få det här rätt: natten innan årsskiftet till 2020, under kvällstimmarna, hur såg “storage” ut för generering per halvtimme? Om det var konstant, säg det; om inte, ge hela sekvensen. Tiderna i UTC tack. Jag behöver riktiga data eller pålitliga källor att luta mig mot.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_036",
+          "fuzzy_description": "Låter det orimligt att alla fem punkter låg på samma procent? Jag vill inte sprida något som inte stämmer. Kan du dela halvtimmesvisa procentsiffror i UTC för produktionslagring sista december runt sex år sedan? Jag behöver siffror eller källor som håller vid granskning.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_037",
+          "fuzzy_description": "För min jämförelse mellan efterfråge- och produktionslagring vore det perfekt att få exakta siffror för 2019-12-31. Kan du skicka halvtimmesvärdena för generering i UTC? Jag behöver det här backat av faktiska data eller tillförlitliga källor, annars faller jämförelsen.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_038",
+          "fuzzy_description": "Jag är nyfiken på hur väl våra gamla diagram stämmer. Om du hittar “storage” för generering, per halvtimme, natten till årsskiftet 2020, kan du ge mig procentsiffror i UTC så jag kan lägga ett lager ovanpå? Jag behöver verkliga data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_039",
+          "fuzzy_description": "Kanske överdriver jag noggrannheten, men just natten 31 december 2019. Ge mig gärna procentsiffror per halvtimme i UTC för produktionslagring, så att jag får det på pränt. Jag behöver hårda siffror eller pålitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → halvtimmesvis “storage” (produktion) i procent, i UTC. - Standardflöde: hämta → validera → presentera (ingen vidare bearbetning krävs). B) Scenariobaserade beroenden: - Beslutspunkt: Datumet är fast; endast detta verktyg behövs. - Sekventiellt krav: Hämta och redovisa i ordning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Här är elektrisk 'storage' för generation (i procent) för 2020 (tidsstämplar i UTC): 2019-12-31T23:30:00+00:00 — 25.0%, 2019-12-31T23:00:00+00:00 — 25.0%, 2019-12-31T22:30:00+00:00 — 25.0%, 2019-12-31T22:00:00+00:00 — 25.0%, 2019-12-31T21:30:00+00:00 — 25.0%. D) Exakt tool: Electricity_generation_storage_for_timestamp",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_040",
+          "fuzzy_description": "Jag försöker få fram exakt när den där incidenten faktiskt skapades. Referensen är INCD-568174-Z. Jag behöver tidpunkten ner på sekundnivå om möjligt. Jag måste ha faktiska siffror eller en pålitlig källa, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_041",
+          "fuzzy_description": "Har en liten knut här: min chef bad om skapandetiden för incidenten med referens INCD-568174-Z, och jag vill inte gissa. Kan du hämta skapelsedatum och tid, gärna i en entydig tidszon? Jag behöver riktiga data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_042",
+          "fuzzy_description": "Det kanske är uppenbart för dig, men jag är osäker på om vår logg är korrekt. För incident INCD-568174-Z, vilken exakt tid skapades den? Om du kan ge datum och tid, så att jag kan kontrollera mot vår interntid, vore det toppen. Jag behöver hårda fakta eller tillförlitliga källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_043",
+          "fuzzy_description": "Vi håller på att synka protokoll och behöver veta när incidenten med ID INCD-568174-Z skapades från början. Kan du dela skapelsedatum och tid så att vi kan stämma av vår tidslinje? Jag måste ha detta backat av faktiska data eller källor, annars blir det fel i processen.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_044",
+          "fuzzy_description": "I min rapport står det att incidenten registrerades på morgonen, men jag vill se den exakta tidpunkten. För referens INCD-568174-Z, vilken creationdatetime gäller? Jag behöver en exakt tid jag kan citera, stött av riktiga siffror eller pålitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_045",
+          "fuzzy_description": "För att undvika missförstånd i efteranalysen behöver jag den faktiska skapandetiden för incident INCD-568174-Z. Om du kan ge mig exakt datum och klockslag, så kan jag låsa vår tidslinje. Jag behöver att det här är baserat på verifierbar data eller en solid källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_046",
+          "fuzzy_description": "Det blir mycket enklare att stänga ärendet om jag kan peka på exakt creationdatetime för INCD-568174-Z, gärna i ett standardformat. Kan du dela det? Jag behöver riktiga siffror eller källor som håller vid granskning, inte bara uppskattningar.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_047",
+          "fuzzy_description": "Jag är inte säker på om tidsstämpeln i vår dashboard speglar serverns tid. Kan du därför hämta den officiella creationdatetime för incident INCD-568174-Z? Jag måste ha faktiska data eller pålitliga källor, annars vågar jag inte uppdatera ärendehistoriken.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_048",
+          "fuzzy_description": "Min kollega säger att incidenten skapades strax efter nio på förmiddagen, men jag vill se den exakta tidsstämpeln. För INCD-568174-Z, vad är creationdatetime? Jag behöver att det här stöds av riktiga siffror eller trovärdiga källor, så jag slipper gå på hörsägen.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_049",
+          "fuzzy_description": "Jag tänker låsa min tidslinje i morgon, men först behöver jag bekräfta creationdatetime för incident INCD-568174-Z. Kan du dela datum och tid exakt? Jag behöver hårda data eller tillförlitliga källor, annars sitter jag med en lös hypotes.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → enstaka fält (creationdatetime) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Referensen är entydig; endast detta verktyg krävs. - Sekventiellt krav: Hämta fältet och använd direkt. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Creationdatetime för incidentreference INCD-568174-Z är: 2025-12-02T04:19:27. D) Exakt tool: live_faults_creationdate_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_050",
+          "fuzzy_description": "Vi ska lägga den här informationen i en kundnotis, så jag vill vara helt säker: vilket incident-ID hör till “CO11 1”? Det behöver vara exakt. Jag behöver hårda fakta eller trovärdiga källor för att våga publicera det.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_051",
+          "fuzzy_description": "Jag försöker hitta vilken incident som hör till postkoden “CO11 1”. Det är för att svara på en fråga internt. Jag behöver den exakta incidentreferensen, och jag måste ha en pålitlig källa eller faktiska data, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_052",
+          "fuzzy_description": "Har funderat på hur ärenden mappas till postkoder. För “CO11 1” vill jag få fram den aktuella incidentreferensen som används. Kan du dela det exakta ID:t? Jag behöver riktiga uppgifter eller en trovärdig källa, inte antaganden.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_053",
+          "fuzzy_description": "Vi fick en fråga från fältteamet om vilket incident-ID som gäller för området med postkod “CO11 1”. Jag är inte säker på om vi har den senaste noteringen. Kan du säga vilket incidentreference som gäller? Jag behöver hårda data eller tillförlitliga källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_054",
+          "fuzzy_description": "Det är lite bråttom: jag ska skicka en uppdatering, men vill först bekräfta incidentreferensen kopplad till “CO11 1”. Om du kan ge mig det exakta ID:t blir det lättare att spåra vidare. Jag behöver att det här stöds av faktiska data eller källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_055",
+          "fuzzy_description": "Jag försöker undvika att blanda ihop närliggande områden, så jag vill ha precis vilken incidentreferens som hör till just “CO11 1”. Kan du ge mig det? Jag måste ha riktiga siffror eller en pålitlig källa för att inte vilseleda teamet.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_056",
+          "fuzzy_description": "Min chef frågade rakt ut vilket incident-ID som gäller för postkod “CO11 1”, och jag vill svara utan tvekan. Om du kan ange exakt referens blir jag trygg. Jag behöver bekräftelse med faktiska data eller trovärdiga källor, annars riskerar vi fel.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_057",
+          "fuzzy_description": "Det kan finnas flera ärenden i närheten, men för “CO11 1” behöver jag det primära incident-ID:t vi ska referera till. Kan du ge mig den referensen? Jag behöver riktiga uppgifter eller pålitliga källor, inte gissningar.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_058",
+          "fuzzy_description": "Jag är inte säker på om vår lista är uppdaterad. För att vara på den säkra sidan, vilket incidentreference är kopplat till postkoden “CO11 1” just nu? Jag behöver att svaret bygger på verifierbar data eller en god källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_059",
+          "fuzzy_description": "För att sluta cirkla, hjälp mig att få fram den exakta incidentreferensen för området med postkod “CO11 1”. Jag behöver ett tydligt ID som jag kan skicka vidare. Jag behöver det här stött av faktiska data eller tillförlitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → lookup av incidentreference givet en postkod. - Standardflöde: hämta → verifiera → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ett explicit fält behövs; detta verktyg räcker. - Sekventiellt krav: Direktuppslag utan efterbearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentreference för postkod 'CO11 1' är: INCD-568174-Z. D) Exakt tool: live_faults_reference_for_postcode",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_060",
+          "fuzzy_description": "Jag försöker reda ut vilken prioritet som gäller för incidenten INCD-15818-I. Det verkar påverka vår eskaleringsväg. Jag behöver den exakta siffran och en pålitlig källa eller faktiska data, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_061",
+          "fuzzy_description": "Har en fråga här: för referensen INCD-15818-I, vad är den dokumenterade prioriteten? Jag vill inte gissa när vi planerar resurser. Ge mig ett tydligt värde som jag kan peka på. Jag behöver riktiga uppgifter eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_062",
+          "fuzzy_description": "Vi bråkar om hur snabbt vi ska svara på ärendet med ID INCD-15818-I. För att landa det, vilken prioritet är faktiskt satt på incidenten? Jag behöver den exakta siffran, och att den stöds av faktiska data eller en pålitlig källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_063",
+          "fuzzy_description": "Det kan låta banalt, men utan korrekt prioritet kan vi planera helt fel. För incident INCD-15818-I, vilken prioritet gäller egentligen? Om det finns flera rader i systemet, ge mig det värde som används. Jag behöver hårda data eller tillförlitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_064",
+          "fuzzy_description": "Min kollega tror att prioriteten är låg, men jag vill se det svart på vitt. Vad är den officiella incidentprioriteten för INCD-15818-I? Jag behöver en exakt siffra som är backad av riktiga data eller trovärdiga källor, annars fastnar vi.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_065",
+          "fuzzy_description": "Jag vill få det här rätt i vår statusuppdatering: specificera prioriteten på incident INCD-15818-I, så att vi kan justera bemanning. Om systemet visar flera poster, tala om vilken siffra som gäller. Jag behöver verkliga siffror eller solida källor för att undvika fel.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_066",
+          "fuzzy_description": "För att sätta rätt SLA behöver jag veta vilken prioritet INCD-15818-I faktiskt har. Kan du ge mig det officiella värdet? Jag måste ha detta stött av faktiska data eller en tillförlitlig källa; annars blir det bara spekulation.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_067",
+          "fuzzy_description": "Jag står och väger mellan två bemanningsalternativ. Hjälp mig med den exakta prioritetsnivån för INCD-15818-I, så jag kan besluta. Om det framgår i två rader, förklara gärna vilket värde vi ska ta fasta på. Jag behöver siffror eller källor som håller.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_068",
+          "fuzzy_description": "Övertänker jag det här? Kanske. Men vi blir mätta på detaljer i revisionen, så berätta vilken prioritet som gäller för incident INCD-15818-I. Jag behöver att det här stöds av riktiga siffror eller pålitliga källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_069",
+          "fuzzy_description": "Vi ska skicka en uppföljning om en timme och jag vill låsa prioriteten. Vad är det officiella prioritetstalet för INCD-15818-I? Jag behöver hårda data eller trovärdiga källor, så jag inte behöver backa senare.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → prioritet (tal) för given incidentreferens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader existerar, bekräfta att talet är konsistent (värdet är angivet). - Sekventiellt krav: Direktuppslag, ingen ytterligare bearbetning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incidentpriority för INCD-15818-I är: 12. D) Exakt tool: Live_faults_priority_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_070",
+          "fuzzy_description": "Jag försöker få tag i huvudmeddelandet för incidenten INCD-568174-Z, så vi kan informera internt utan att feltolka. Kan du dela exakt text? Jag behöver att det här backas av riktiga data eller en pålitlig källa, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_071",
+          "fuzzy_description": "Har funderat på om vi ska citera meddelandet ordagrant eller parafrasera. För säkerhets skull, vad är mainmessage för INCD-568174-Z? Jag vill inte råka ändra innebörden. Jag behöver exakt text, stött av faktiska data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_072",
+          "fuzzy_description": "Det blev lite rörigt i vår chatt, så jag vill ha originaltexten till huvudmeddelandet för referensen INCD-568174-Z. Om du kan ge ordagrann text blir det lätt att synka. Jag behöver verkliga data eller en solid källa för att undvika missförstånd.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_073",
+          "fuzzy_description": "Inför kundnotisen vill jag lyfta huvudmeddelandet exakt som det står. Vad är mainmessage för INCD-568174-Z, ord för ord? Jag behöver det här bekräftat med riktiga data eller en tillförlitlig källa, annars vågar jag inte använda det.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_074",
+          "fuzzy_description": "Min chef vill dubbelkolla om meddelandet nämner planerade arbeten och en uppskattad återställningstid. Kan du därför dela det fulla huvudmeddelandet för INCD-568174-Z? Jag behöver det ordagrant och styrkt av faktiska data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_075",
+          "fuzzy_description": "Jag är osäker på om vi formulerade om något i vår interna logg. För att vara exakt, vad står i mainmessage för incident INCD-568174-Z? Jag behöver originaltexten, med stöd i riktiga data eller en pålitlig källa, så vi inte sprider fel.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_076",
+          "fuzzy_description": "Känns som att detaljerna om återställningstid kan vara känsliga. Om du kan ge huvudmeddelandet för INCD-568174-Z ordagrant, så kan vi bedöma formuleringen. Jag behöver detta bekräftat med faktiska data eller tillförlitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_077",
+          "fuzzy_description": "Det här har stört mig: vi kanske råkade korta ner texten. Ge mig därför det kompletta mainmessage för INCD-568174-Z, som det ska citeras. Jag behöver ordagrann text, baserat på verkliga data eller en pålitlig källa, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_078",
+          "fuzzy_description": "Jag ska lägga texten i en mall, så minsta avvikelse blir fel. Vad är originalets huvudmeddelande för referensen INCD-568174-Z? Jag behöver exakt text som stöds av riktiga data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_079",
+          "fuzzy_description": "För att undvika fram och tillbaka, kan du skicka huvudmeddelandet för INCD-568174-Z, exakt som det är formulerat? Jag behöver det här stött av faktiska data eller en god källa, så vi kan låsa innehållet.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfält (mainmessage) för given incidentreferens. - Standardflöde: hämta → citera → distribuera. B) Scenariobaserade beroenden: - Beslutspunkt: Endast ordagrann text accepteras; parafras undviks. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Huvudmeddelandet (mainmessage) för INCD-568174-Z är: 'We are aware of an incident caused by LV UG Network Fault affecting the electricity supply in your area. Our engineers are dealing with this and we estimate that most supplies will be restored by 09-DEC-2025 17:00. Please accept our sincere apologies for any inconvenience this may cause.' D) Exakt tool: Live_faults_message_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_080",
+          "fuzzy_description": "Jag försöker förstå vilken typ av avbrott vi pratar om för INCD-15965-I. Är det planerat eller inte? Jag behöver den exakta klassningen och en pålitlig källa eller faktiska data, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_081",
+          "fuzzy_description": "Har en liten fråga från kundteamet: för incidenten med referens INCD-15965-I, vilken powercuttype gäller? Vill undvika att vi kommunicerar fel. Jag behöver exakt värde, backat av riktiga data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_082",
+          "fuzzy_description": "Det finns förvirring hos oss om avbrottstypen för INCD-15965-I. Kan du säga vilken typ som är registrerad? Jag behöver ett tydligt svar jag kan hänvisa till, baserat på faktiska data eller en stabil källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_083",
+          "fuzzy_description": "Min chef vill veta om kunden drabbats av ett oplanerat stopp eller ett schemaavbrott. För referens INCD-15965-I, vilken powercuttype står angiven? Jag behöver hårda uppgifter eller tillförlitliga källor, annars vågar jag inte skicka ut info.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_084",
+          "fuzzy_description": "Vi har två versioner i våra anteckningar, så jag vill låsa rätt status. För incident INCD-15965-I, vad är den officiella avbrottstypen? Jag behöver att det här stöds av riktiga data eller en pålitlig källa, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_085",
+          "fuzzy_description": "För att matcha rätt SLA behöver jag veta exakt powercuttype för INCD-15965-I. Kan du dela det? Jag måste ha ett svar som bygger på verificerbara data eller trovärdiga källor, inte antaganden.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_086",
+          "fuzzy_description": "Kanske överreagerar jag, men rätt klassning avgör allt i kommunikationen. Säg vilken avbrottstyp som står på INCD-15965-I, så vi undviker missförstånd. Jag behöver riktiga data eller pålitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_087",
+          "fuzzy_description": "Jag är inte säker på om vår etikettning hänger med. Hjälp mig att få fram den registrerade powercuttype för referens INCD-15965-I. Jag behöver det här backat av faktiska data eller en god källa, annars riskerar vi fel.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_088",
+          "fuzzy_description": "Vi ska skicka info till kund, så jag måste ha korrekt avbrottstyp för INCD-15965-I. Vilken är den? Jag behöver ett svar med stöd i riktiga data eller trovärdiga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_089",
+          "fuzzy_description": "För att inte skicka blandade budskap, ge mig den officiella powercuttype för INCD-15965-I. Jag behöver hårda fakta eller en pålitlig källa; annars vågar jag inte publicera något.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → klassificerat textfält (powercuttype) för given incident. - Standardflöde: hämta → läsa → kommunicera. B) Scenariobaserade beroenden: - Beslutspunkt: Om flera rader finns, använd konsistent typ (utdata anger typ). - Sekventiellt krav: Direkt fältuttag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Powercuttype för INCD-15965-I är: 'Planned' (finns i 1 rad). D) Exakt tool: Live_faults_powercuttype_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_090",
+          "fuzzy_description": "Jag försöker få fram kundvänliga beskrivningen för INCD-426957-G, ordagrant. Vi vill citera exakt. Kan du dela texten? Jag behöver att det stöds av riktiga data eller en pålitlig källa, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_091",
+          "fuzzy_description": "Har funderat på hur vi bäst formulerar oss, men för säkerhets skull vill jag ha originalets incidentcategorycustomerfriendlydescription för INCD-426957-G. Jag vill inte råka ändra ton eller innebörd. Jag behöver exakt text, backad av faktiska data eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_092",
+          "fuzzy_description": "Det är lätt att man parafraserar fel, så jag vill se den kundvänliga beskrivningen precis som den är lagrad för referens INCD-426957-G. Kan du ge ordagrann text? Jag behöver verkliga data eller en solid källa innan jag skickar vidare.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_093",
+          "fuzzy_description": "Vi ska lägga in beskrivningen i ett sms-utskick. För att undvika misstag, vad är incidentcategorycustomerfriendlydescription för INCD-426957-G? Jag behöver exakt formulering, stött av riktiga data eller tillförlitliga källor, annars blir det fel i tonen.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_094",
+          "fuzzy_description": "Min chef vill be om ursäkt i rätt ordalag. Kan du därför dela den kundvänliga beskrivningen knuten till INCD-426957-G, precis som den står? Jag behöver ordagrann text, baserat på faktiska data eller en pålitlig källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_095",
+          "fuzzy_description": "Jag är osäker på om vi råkade korta ner texten för att få plats. För att vara exakt, ge mig den fulla incidentcategorycustomerfriendlydescription för INCD-426957-G. Jag behöver hårda data eller trovärdiga källor för att våga använda den i skarpt läge.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_096",
+          "fuzzy_description": "Kanske överdrivet noggrant, men kundtexten måste vara korrekt. Om du kan dela originalets kundvänliga beskrivning för INCD-426957-G, blir resten enkelt. Jag behöver att det backas av riktiga data eller pålitliga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_097",
+          "fuzzy_description": "Jag fick höra att texten nämner planerade arbeten och säkerhet för tekniker. Kan du verifiera det genom att ge den exakta kundbeskrivningen för INCD-426957-G? Jag måste ha ordagrann text med stöd i faktiska data eller en god källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_098",
+          "fuzzy_description": "För dokumentationen vill jag klistra in korrekt formulering. Vad är den kundvänliga beskrivningen (incidentcategorycustomerfriendlydescription) för incident INCD-426957-G? Jag behöver verkliga data eller trovärdiga källor, ingen omskrivning.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_099",
+          "fuzzy_description": "Innan vi publicerar på webben vill jag dubbelkolla originaltexten. Kan du ge incidentcategorycustomerfriendlydescription för INCD-426957-G, exakt och komplett? Jag behöver hårda fakta eller en pålitlig källa, annars blir det fel.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → textfältet incidentcategorycustomerfriendlydescription för given incident. - Standardflöde: hämta → citera → använda i kommunikation. B) Scenariobaserade beroenden: - Beslutspunkt: Ordagrann återgivning krävs; ingen redigering. - Sekventiellt krav: Direktuppslag och återgivning. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Beskrivning (incidentcategorycustomerfriendlydescription) för INCD-426957-G är: 'Due to a faulty piece of network equipment we've had to turn off your power.' D) Exakt tool: live_faults_description_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_100",
+          "fuzzy_description": "Jag försöker ta reda på hur många gånger den här incidenten har inträffat. ID:t är INCD-15965-I. Jag behöver en siffra jag kan lita på, stött av faktiska data eller en pålitlig källa, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_101",
+          "fuzzy_description": "Har en fundering: ibland dyker samma incident upp flera gånger i loggarna. För referensen INCD-15965-I, hur många gånger har den registrerats? Jag behöver ett exakt antal, baserat på riktiga uppgifter eller trovärdiga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_102",
+          "fuzzy_description": "Det vore bra att veta incidentfrekvensen innan jag gör jämförelser. Kan du säga hur många gånger incidenten med ID INCD-15965-I faktiskt inträffat? Jag måste ha hårda data eller tillförlitliga källor, annars blir slutsatsen svajig.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_103",
+          "fuzzy_description": "Min chef frågade rakt ut: hur många förekomster har det där ID:t? För att svara korrekt behöver jag antalet för INCD-15965-I. Jag behöver att siffran stöds av verkliga data eller en god källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_104",
+          "fuzzy_description": "Vi ska väga åtgärder mot återkommande incidenter. Hjälp mig med räkningen: hur många gånger har incident INCD-15965-I inträffat? Jag behöver ett pålitligt antal, bekräftat med faktiska data eller trovärdiga källor, tack.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_105",
+          "fuzzy_description": "Jag vill undvika att dubbla på fel sätt. Ge mig gärna det officiella incidentcount för INCD-15965-I, så att min analys inte skevar. Jag behöver siffror eller källor som håller vid granskning.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_106",
+          "fuzzy_description": "Det här låter kanske trivialt, men antalet förekomster styr prioritering. För referensen INCD-15965-I, hur många gånger är den registrerad? Jag behöver ett exakt svar, stött av riktiga data eller pålitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_107",
+          "fuzzy_description": "Jag är osäker på om våra interna rapporter summerar rätt. Kan du därför ge det korrekta antalet förekomster för incidenten med ID INCD-15965-I? Jag måste ha det här bekräftat med faktiska data eller en robust källa.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_108",
+          "fuzzy_description": "Innan jag lägger en graf på frekvensen vill jag veta det exakta numret. Hur många gånger har INCD-15965-I inträffat? Jag behöver hårda siffror eller trovärdiga källor, okej?",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        },
+        {
+          "task_id": "server_C_test_109",
+          "fuzzy_description": "För att sätta saken i perspektiv, ge mig incidentcount för INCD-15965-I. Jag vill undvika att dra fel slutsatser. Jag behöver att svaret är stödd av riktiga data eller tillförlitliga källor.",
+          "dependency_analysis": "A) Inneboende beroenden: - Central kedja: Tool → numeriskt fält (incidentcount) för given referens. - Standardflöde: hämta → läsa → rapportera. B) Scenariobaserade beroenden: - Beslutspunkt: Ingen; fältet är entydigt. - Sekventiellt krav: Direkt uppslag. - Parallella krav: Inga. - Iterativ slinga: Ingen. - Beroenden mellan servrar: Ej tillämpligt. C) Förväntat svar (oförändrat, exakt): Incident INCD-15965-I har inträffat: 0 gånger (incidentcount). D) Exakt tool: Live_faults_count_for_reference",
+          "distraction_servers": [
+            "Server_A_test",
+            "Server_B_test"
+          ]
+        }        
+      ],
+      "servers": [
+        "Server_C_test"
+      ],
+      "combination_name": "Single Server: Server_C_test",
+      "combination_type": "single_server"
+    }
+  ]
+}
